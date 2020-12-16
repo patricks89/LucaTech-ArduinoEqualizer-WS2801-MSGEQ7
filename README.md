@@ -1,4 +1,4 @@
-# LucaTech-ArduinoEqualizer-WS2801-MSGEQ7.ino
+Equalizer_WS2801_MSGEQ7.ino
 is for 7 RGB Stripe only one Audio Channel, this is an example to use for you.
 
 Import ws2801 and MSGEQ7 database.
